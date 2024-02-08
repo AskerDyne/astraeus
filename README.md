@@ -38,7 +38,7 @@ For support reach out and open a ticket on [Discord](https://discord.askerdyne.c
 
 [![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) [![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) [![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) [![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
-[ADA-TG](https://labs.askerdyne.com/) by [AskerDyne & Co.](https://askerdyne.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+[Astraeus](https://labs.askerdyne.com/) by [AskerDyne & Co.](https://askerdyne.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
 - **CC (Creative Commons)**: A type of license that allows creators to specify the permissions for others to use their work.
 
