@@ -1,15 +1,15 @@
-<img src="https://cdn.discordapp.com/attachments/1155955661209874492/1192586338386587648/logo-1024x1024_1.png?ex=65a99d94&is=65972894&hm=ed7f80b0bf263f6f29a777e19c521387e439fee43805bb5d5b5ac2841bea37ea" alt="AskerDyne logo" width="125" height="125">
+<img src="https://cdn.discordapp.com/attachments/1155955661209874492/1196617475291349053/logo_new_white.png?ex=65d3f75e&is=65c1825e&hm=1ed98d9b3e310b08122808acb851a45f7152a075d532187c5f76227dfaf2147e" alt="AskerDyne logo" width="125" height="125">
 
 # Astraeus
 
-**An AI empowered discord support bot**
+**An AI-empowered discord support bot**
 
 Astraeus is not just a Discord bot – it's your support companion, utilising in-house research and developed neural networks to respond to general prompts and fostering a peaceful environment, with quips and jokes being part and parcel with him. With pre-built cogs for soft moderation too, ease-of-control measures, and a multitude of features. Astraeus is the perfect addition to your Discord server if you want passive support.
 
 **Neural Network Assistance**:
 
 Astraeus harnesses the power of its neural network to intelligently respond to general prompts, making interactions with your community more engaging and dynamic. With over 30 pre-programmed responses too for the times the neural network just doesn't quite hit the mark.
-The open-source nature of the neural training data also means you can contribute your own data to aid in Astras' growth! 
+The open-source nature of the neural training data also means you can contribute your data to aid in Astras' growth! 
 
 **Soft Moderation Cogs**:
 
